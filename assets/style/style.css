@@ -1,1 +1,26 @@
 /* BASIC STYLES HERE */
+.card {
+  max-width: 15rem;
+  max-height: 16rem;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.gifts {
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/images2/Fireplace-HD-Wallpapers.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: auto;
+}
+
+.banner {
+  min-height: 100vh;
+}
+
+.overflow {
+  max-height: 100vh;
+  overflow-y: auto;
+}
